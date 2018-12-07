@@ -8,7 +8,7 @@ I converted a static webpage to a mobile-ready web application. I took a static 
 
 ### How to Run the app.
 
-Because the app was developed using Chrome Canary. Let's download Chrome Canary by going to https://www.google.com/chrome/canary/
+Because the app was developed using Chrome Canary for the advanced serviceworker feature. Let's download Chrome Canary by going to https://www.google.com/chrome/canary/
 
 1. Clone or download this repository
 
